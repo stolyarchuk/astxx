@@ -1,13 +1,17 @@
 Astxx, The Asterisk C++ wrapper and utility library.
----------
+---
+
+Updated 12 April 2017
+
+___
 
 Updated 10/11/2012 by FluentStream Technologies
 
 Original source and license from:
 
 http://matt-land.com/astxx/
+___
 
----------
 
 The goal of Astxx is to provide a fully functional and easy to use C++ wrapper 
 for Asterisk enabling developers to write Asterisk related software using the 
