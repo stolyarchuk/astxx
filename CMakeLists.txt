@@ -4,3 +4,6 @@ include_directories(./include)
 aux_source_directory(./src SRC_DIR)
 add_library(${PROJECT_NAME} SHARED ${SRC_DIR})
 target_link_libraries(${PROJECT_NAME} boost_system)
+
+add_executable(manager examples/manager.cpp)
+target_link_libraries(manager astxx)

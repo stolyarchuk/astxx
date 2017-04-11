@@ -29,25 +29,25 @@
 #ifndef ASTXX_MANAGER_H
 #define ASTXX_MANAGER_H
 
-#include <astxx/manager/connection.h>
-#include <astxx/manager/error.h>
-#include <astxx/manager/message.h>
+#include "manager/connection.h"
+#include "manager/error.h"
+#include "manager/message.h"
 
-#include <astxx/manager/action/absolute_timeout.h>
-#include <astxx/manager/action/command.h>
-#include <astxx/manager/action/extension_state.h>
-#include <astxx/manager/action/getvar.h>
-#include <astxx/manager/action/hangup.h>
-#include <astxx/manager/action/list_commands.h>
-#include <astxx/manager/action/login.h>
-#include <astxx/manager/action/logoff.h>
-#include <astxx/manager/action/mailbox_count.h>
-#include <astxx/manager/action/mailbox_status.h>
-#include <astxx/manager/action/originate.h>
-#include <astxx/manager/action/ping.h>
-#include <astxx/manager/action/redirect.h>
-#include <astxx/manager/action/setvar.h>
-#include <astxx/manager/action/status.h>
-#include <astxx/manager/action/user_event.h>
+#include "manager/action/absolute_timeout.h"
+#include "manager/action/command.h"
+#include "manager/action/extension_state.h"
+#include "manager/action/getvar.h"
+#include "manager/action/hangup.h"
+#include "manager/action/list_commands.h"
+#include "manager/action/login.h"
+#include "manager/action/logoff.h"
+#include "manager/action/mailbox_count.h"
+#include "manager/action/mailbox_status.h"
+#include "manager/action/originate.h"
+#include "manager/action/ping.h"
+#include "manager/action/redirect.h"
+#include "manager/action/setvar.h"
+#include "manager/action/status.h"
+#include "manager/action/user_event.h"
 
 #endif

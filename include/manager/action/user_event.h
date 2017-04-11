@@ -27,8 +27,8 @@
 #ifndef ASTXX_MANAGER_ACTION_USER_EVENT_H
 #define ASTXX_MANAGER_ACTION_USER_EVENT_H
 
-#include <astxx/manager/basic_action.h>
-#include <astxx/manager/message.h>
+#include "manager/basic_action.h"
+#include "manager/message.h"
 #include <string>
 
 namespace astxx {

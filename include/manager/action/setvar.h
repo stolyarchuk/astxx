@@ -27,9 +27,9 @@
 #ifndef ASTXX_MANAGER_ACTION_SETVAR_H
 #define ASTXX_MANAGER_ACTION_SETVAR_H
 
-#include <astxx/manager/basic_action.h>
-#include <astxx/manager/message.h>
-#include <astxx/manager/action/error.h>
+#include "manager/basic_action.h"
+#include "manager/message.h"
+#include "manager/action/error.h"
 
 namespace astxx {
    namespace manager {

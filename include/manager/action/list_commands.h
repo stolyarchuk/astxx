@@ -27,8 +27,8 @@
 #ifndef ASTXX_MANAGER_ACTION_LIST_COMMANDS_H
 #define ASTXX_MANAGER_ACTION_LIST_COMMANDS_H
 
-#include <astxx/manager/basic_action.h>
-#include <astxx/manager/message.h>
+#include "manager/basic_action.h"
+#include "manager/message.h"
 
 namespace astxx {
    namespace manager {
