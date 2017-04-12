@@ -33,6 +33,8 @@
 #include "manager/error.h"
 #include "manager/message.h"
 
+#include "manager/action/queue_status.h"
+#include "manager/action/queue_pause.h"
 #include "manager/action/absolute_timeout.h"
 #include "manager/action/command.h"
 #include "manager/action/extension_state.h"
@@ -49,5 +51,6 @@
 #include "manager/action/setvar.h"
 #include "manager/action/status.h"
 #include "manager/action/user_event.h"
+
 
 #endif

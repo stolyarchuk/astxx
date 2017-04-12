@@ -5,6 +5,8 @@ Updated 12 April 2017
 
 Documentation - <https://stolyarchuk.github.io/astxx>
 
+Queue Actions by [Alexander Drozdov](https://github.com/h4tr3d)
+
 ___
 
 Updated 10/11/2012 by FluentStream Technologies
